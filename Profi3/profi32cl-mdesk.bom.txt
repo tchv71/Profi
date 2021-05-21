@@ -1,0 +1,239 @@
+P-CAD Bill of Materials      profi32cl-mdesk.sch
+
+======================================================================
+
+Count  ComponentName   RefDes          PatternName     Value          
+------ --------------- --------------- --------------- ---------------
+
+     1 555ID4          U59             N016                           
+     3 555IE10         U4              N016                           
+                       U5                                             
+                       U6                                             
+     1 555IR10         U14             N016                           
+     1 555IR22         U19             N020                           
+     6 555IR23         U8              N020                           
+                       U9                                             
+                       U10                                            
+                       U11                                            
+                       U12                                            
+                       U13                                            
+     4 555KP11         U15             N016                           
+                       U16                                            
+                       U17                                            
+                       U18                                            
+     7 555KP12         U48             N016                           
+                       U49                                            
+                       U50                                            
+                       U51                                            
+                       U52                                            
+                       U53                                            
+                       U54                                            
+     5 555LA3          U31             N014                           
+                       U32                                            
+                       U33                                            
+                       U34                                            
+                       U35                                            
+     2 555LE1          U43             N014                           
+                       U44                                            
+     4 555LI1          U45             N014                           
+                       U46                                            
+                       U47                                            
+                       U62                                            
+     1 555LI3          U60             N014                           
+     5 555LL1          U38             N014                           
+                       U39                                            
+                       U40                                            
+                       U41                                            
+                       U42                                            
+     1 555LN1          U30             N014                           
+     2 555LP5          U36             N014                           
+                       U37                                            
+     5 555TM2          U25             N014                           
+                       U26                                            
+                       U27                                            
+                       U28                                            
+                       U29                                            
+     5 555TM8          U20             N016                           
+                       U21                                            
+                       U22                                            
+                       U23                                            
+                       U24                                            
+     1 555TM9          U58             N016                           
+     1 561IE10         U7              N016                           
+     1 561LN2          U55             N014                           
+    16 565RU7          RAM0            N016                           
+                       RAM1                                           
+                       RAM2                                           
+                       RAM3                                           
+                       RAM4                                           
+                       RAM5                                           
+                       RAM6                                           
+                       RAM7                                           
+                       RAM8                                           
+                       RAM9                                           
+                       RAM10                                          
+                       RAM11                                          
+                       RAM12                                          
+                       RAM13                                          
+                       RAM14                                          
+                       RAM15                                          
+     1 573RF5          U3              N024                           
+     1 27512           U2              N028                           
+    40 C-BLOCK         CB1             C-BLOCK                        
+                       CB2                                            
+                       CB3                                            
+                       CB4                                            
+                       CB5                                            
+                       CB6                                            
+                       CB7                                            
+                       CB8                                            
+                       CB9                                            
+                       CB10                                           
+                       CB11                                           
+                       CB12                                           
+                       CB13                                           
+                       CB14                                           
+                       CB15                                           
+                       CB16                                           
+                       CB17                                           
+                       CB18                                           
+                       CB19                                           
+                       CB20                                           
+                       CB21                                           
+                       CB22                                           
+                       CB23                                           
+                       CB24                                           
+                       CB25                                           
+                       CB26                                           
+                       CB27                                           
+                       CB28                                           
+                       CB29                                           
+                       CB30                                           
+                       CB31                                           
+                       CB32                                           
+                       CB33                                           
+                       CB34                                           
+                       CB35                                           
+                       CB36                                           
+                       CB37                                           
+                       CB38                                           
+                       CB39                                           
+                       CB40                                           
+     1 CONDENS         C15             CONDENS         330            
+     1 CONDENS         BC6             CONDENS         1500           
+    17 CONDENS         BC0             CONDENS                        
+                       BC1                                            
+                       BC2                                            
+                       BC5                                            
+                       BC7                                            
+                       C1                                             
+                       C2                                             
+                       C3                                             
+                       C4                                             
+                       C5                                             
+                       C7                                             
+                       C8                                             
+                       C9                                             
+                       C10                                            
+                       C12                                            
+                       C13                                            
+                       C14                                            
+     2 CONDENS_POL     C6              CONDENS_POL     100,0          
+                       C6*                                            
+     1 CONDENS_POL     C11             CONDENS_POL                    
+     1 CONN64F         SYS_BUS1        CONM64PL                       
+     1 CONN64M         SYS_BUS         CONP64PL                       
+     4 CONTACT_1_A     PAD3            CONTACT_1_A     {Value}        
+                       PAD4                                           
+                       PAD5                                           
+                       PAD6                                           
+     2 CONTACT_1_A     PAD1            CONTACT_1_A                    
+                       PAD2                                           
+     1 DIP-SW4         U61             N08                            
+     1 HP1-1-1-8       U57             N016                           
+     1 INDUKT          DM              INDUKT          150-300 uH     
+    14 KD522A          X1              VD2                            
+                       X2                                             
+                       X3                                             
+                       X4                                             
+                       X5                                             
+                       X6                                             
+                       X7                                             
+                       X8                                             
+                       X9                                             
+                       X10                                            
+                       X11                                            
+                       X12                                            
+                       X13                                            
+                       X14                                            
+     1 KEYB-16         KEYB            N016                           
+     5 KT3102AM        Q5              KT26-1                         
+                       Q6                                             
+                       Q7                                             
+                       Q8                                             
+                       Q10                                            
+     5 KT3107AM        Q1              KT26-1                         
+                       Q2                                             
+                       Q3                                             
+                       Q4                                             
+                       Q9                                             
+     1 NR1-4-9M        X16             NR1-4-9M        10k            
+     2 NR1-4-9M        X15             NR1-4-9M                       
+                       X17                                            
+     3 P2K             GRES            P2K                            
+                       ONOFF                                          
+                       S1                                             
+     2 QUARZ           Z1               ¬¿–÷           {Value}        
+                       Z2                                             
+     1 R0125           R35             R0125           0-27           
+     6 R0125           R2              R0125           1,2k           
+                       R3                                             
+                       R9                                             
+                       R12                                            
+                       R15                                            
+                       R39                                            
+     1 R0125           R7              R0125           1,5M           
+     1 R0125           R18             R0125           1k             
+     4 R0125           R1              R0125           3,3k           
+                       R5                                             
+                       R32                                            
+                       R33                                            
+     1 R0125           R16             R0125           7,5k           
+     2 R0125           R10             R0125           10k            
+                       R20                                            
+     1 R0125           R13             R0125           15k            
+    10 R0125           R23             R0125           27             
+                       R24                                            
+                       R25                                            
+                       R26                                            
+                       R27                                            
+                       R28                                            
+                       R29                                            
+                       R30                                            
+                       R31                                            
+                       RRAS                                           
+     2 R0125           R4              R0125           100            
+                       R34                                            
+     2 R0125           R6              R0125           100k           
+                       R19                                            
+     1 R0125           R21             R0125           270            
+     3 R0125           R8              R0125           470            
+                       R11                                            
+                       R14                                            
+     4 R0125           R36             R0125           510            
+                       R37                                            
+                       R38                                            
+                       R40                                            
+     1 R0125           R22             R0125           680            
+     1 Z80A            U1              N040                           
+     5 ŒÕ÷- √-4-5_NO_F MAG1            ŒÕ÷- √-4-5_NO_F                
+       WD_PINS                         WD_PINS                        
+                       POWER1                                         
+                       RGB1                                           
+                       SINC1                                          
+                       VIDEO1                                         
+     5 ŒÕ÷- √-4-7      MAG             ŒÕ÷- √-4-7                     
+                       POWER                                          
+                       RGB                                            
+                       SINC                                           
+                       VIDEO                                          

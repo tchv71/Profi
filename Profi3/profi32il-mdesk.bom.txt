@@ -1,0 +1,96 @@
+P-CAD Bill of Materials           profi32il-mdesk.sch
+
+======================================================================
+
+Count  ComponentName   RefDes          PatternName     Value          
+------ --------------- --------------- --------------- ---------------
+
+     1 555AP6          U31             N020                           
+     1 555ID10         U4              N016                           
+     1 555IE5          U26             N014                           
+     1 555IR16         U11             N014                           
+     1 555LA1          U30             N014                           
+     2 555LA2          U7              N014                           
+                       U8                                             
+     2 555LA3          U9              N014                           
+                       U10                                            
+     1 555LE1          U32             N014                           
+     1 555LI1          U18             N014                           
+     4 555LL1          U14             N014                           
+                       U15                                            
+                       U16                                            
+                       U17                                            
+     2 555LN1          U21             N014                           
+                       U22                                            
+     1 555LN2          U12             N014                           
+     1 555LP8          U13             N014                           
+     2 555TM2          U24             N014                           
+                       U25                                            
+     2 555TM9          U19             N016                           
+                       U20                                            
+     2 556RT4          U5              N016                           
+                       U23                                            
+     1 580VV55         U29             N040                           
+     1 1818VG93        U1              N040                           
+     1 2764            U3              N028                           
+     1 27256           U2              N028                           
+     1 AY-3-8910       U6.2            N040                           
+     1 AY-3-8912       U6.1            N028                           
+     1 BH34-R1         XP1             BH-34R                         
+    15 C-BLOCK         CB1             C-BLOCK         0,1            
+                       CB2                                            
+                       CB3                                            
+                       CB4                                            
+                       CB5                                            
+                       CB6                                            
+                       CB7                                            
+                       CB8                                            
+                       CB9                                            
+                       CB10                                           
+                       CB11                                           
+                       CB12                                           
+                       CB13                                           
+                       CB14                                           
+                       CB15                                           
+     2 CONDENS         C1              CONDENS         0,1            
+                       C3                                             
+     2 CONDENS         C2              CONDENS         0,47           
+                       C6                                             
+     1 CONDENS         C7              CONDENS         330            
+     2 CONDENS         C4              CONDENS         1500           
+                       C5                                             
+     3 CONN64M         SYS_BUS         CONP64PL                       
+                       SYS_BUS1                                       
+                       X6                                             
+     2 DIP-SW4         U27             N08                            
+                       U28                                            
+     2 KD522A          X1              VD2                            
+                       X2                                             
+     2 NR1-4-9M        X3              NR1-4-9M        1k             
+                       X4                                             
+     1 NR1-4-9M        X8              NR1-4-9M        10k            
+     2 P2K             S1              P2K                            
+                       S2                                             
+     1 QUARZ           X5               ¬¿–÷           8 / 16 MHz     
+     2 R0125           R13             R0125           1k2            
+                       R16                                            
+     5 R0125           R12             R0125           2k7            
+                       R14                                            
+                       R15                                            
+                       R17                                            
+                       R18                                            
+    11 R0125           R1              R0125           10k            
+                       R2                                             
+                       R3                                             
+                       R5                                             
+                       R6                                             
+                       R7                                             
+                       R8                                             
+                       R9                                             
+                       R10                                            
+                       R11                                            
+                       R21                                            
+     2 R0125           R19             R0125           15k            
+                       R20                                            
+     1 R0125           R4              R0125           680            
+     1 ŒÕ÷- √-4-7      X7              ŒÕ÷- √-4-7                     
